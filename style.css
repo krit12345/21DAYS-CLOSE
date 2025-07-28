@@ -1,0 +1,63 @@
+/* style.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fff7f0;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  color: #333;
+}
+button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.day-box {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #ffe3e3;
+  border-radius: 20px;
+  box-shadow: 0 0 10px #eec;
+}
+.day-box h2 {
+  margin-top: 0;
+  color: #e44;
+}
+.message {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+.song-link {
+  display: inline-block;
+  background: #ff7f7f;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.song-link:hover {
+  background: #ff4f4f;
+}
+.nav {
+  margin-top: 20px;
+}
+button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.nav button:hover {
+  background: #bbb;
+}
